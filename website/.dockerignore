@@ -1,0 +1,50 @@
+# Virtual environment - exclude completely
+env
+env/
+env/*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Heroku
+Procfile
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Heroku
+Procfile
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
